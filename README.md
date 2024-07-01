@@ -1,2 +1,2 @@
 # ghan
-about flutter and ghana
+Simple flutter project.
